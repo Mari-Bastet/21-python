@@ -36,3 +36,5 @@ elif distribuir_carta == 21:
     print(f"Você ganhou! {distribuir_carta}")
 else:
     print(f"Chegou perto! {distribuir_carta}")
+
+print("FUNFOU")
